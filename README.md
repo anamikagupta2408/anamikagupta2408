@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- CHANGE THIS: replace youremail@gmail.com and your-linkedin-id -->
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-0891b2?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anamika_Gupta-0891b2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Email](https://img.shields.io/badge/Email-anamikagupta24aug@gmail.com-0891b2?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anamika-gupta-711b88343?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
 [![GitHub](https://img.shields.io/badge/GitHub-anamikagupta2408-0891b2?style=flat&logo=github&logoColor=white)](https://github.com/anamikagupta2408)
 
 </div>
@@ -32,20 +32,25 @@ Here are some ideas to get you started:
 ---
 
 ## 👋 About Me
-I'm a 3rd-year Computer Science student who enjoys learning by building real projects.
-I'm currently learning programming from the ground up and working towards an internship.
+I'm a 3rd-year B.Tech CSE (AI/ML) student with knowledge of Data Structures and Algorithms, software development, and
+Machine Learning who enjoys learning by building real projects.
+I'm seeking opportunities to apply technical skills, build scalable applications, and solve real
+world problems through innovative software solutions.
 
 **Currently learning:**
 - 🐍 Python
-- 🔧 Git & GitHub
+- 📈 Data Science & Analytics
 - 🧠 Problem solving
+- 🤖 Machine Learning
+- 🔎RAG & Semantic Search
+- 🛠️Agentic AI &LLM
 
 ---
 
 | Focus | Current Direction |
 |---|---|
 | 🎓 Education | B.Tech, Computer Science, 3rd Year |
-| 🧰 Learning | Python, Git, GitHub |
+| 🧰 Learning | Python, Machine Learning,GenAI|
 | 🎯 Goal | Internship-ready with a strong project |
 
 ---
@@ -59,12 +64,25 @@ I'm currently learning programming from the ground up and working towards an int
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=py,js,react,html,css,tailwind,cpp,c,java,git,github,vscode&perline=12" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PANDAS-0d1117?style=for-the-badge&logo=pandas&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/STREAMLIT-0d1117?style=for-the-badge&logo=streamlit&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/NUMPY-0d1117?style=for-the-badge&logo=numpy&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/HUGGING_FACE-0d1117?style=for-the-badge&logo=huggingface&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-0d1117?style=for-the-badge&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/LANGCHAIN-0d1117?style=for-the-badge&logo=langchain&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/EMBEDDINGS-0d1117?style=for-the-badge&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/LANGGRAPH-0d1117?style=for-the-badge&logoColor=00D1FF" />
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=00D1FF" />
+
 </div>
 
----
 
 ## 🎯 Current Mission
 
